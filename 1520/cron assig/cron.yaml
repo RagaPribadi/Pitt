@@ -1,0 +1,6 @@
+cron:
+
+- description: test email
+  url: /
+  schedule: every monday 09:00
+  timezone: America/New_York

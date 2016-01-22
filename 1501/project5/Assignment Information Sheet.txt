@@ -1,0 +1,21 @@
+CS 1501 Assignment Information Sheet
+Name: Adhyaksa Pribadi Assignment #: 5
+Program Due Date: July 27th, 2015
+Handed in Date: July 27th, 2015
+JDK Version: 1.8.0_45
+
+Java Source Files:
+	AdjacencyList.java
+	Assig5.java
+	
+Compiled:AdjacencyList$Edge.class
+AdjacencyList$LinkedList.class
+AdjacencyList$Node.class
+AdjacencyList.class
+Assig5.class	
+	
+Does your program compile without error?: Yes 
+If not, what is/are the error(s)?:
+Does your program run without error?: Yes 
+If not, what is/are the error(s) and which parts of your program run correctly?:
+Additional comments (including problems and extra credit):

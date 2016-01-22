@@ -1,0 +1,16 @@
+CS 1501 Assignment Information Sheet
+Name: Adhyaksa Pribadi Assignment #: 4
+Program Due Date: July 14th, 2015
+Handed in Date: July 16th, 2015
+JDK Version: 1.8.0_45
+
+Source code file name(s): SymCipher.java, Add128.java, Substitute.java, SecureChatServer.java, and SecureChatClient.java
+
+Compiled (.jar or .class) file name(s): SecureChatClient.class, Substitute.class, SecureChatServer$1.class, 
+SecureChatServer$UserThread.class, SecureChatServer.class, Add128.class, SecureChatClient$1.class, SymCipher.class, keys.txt 
+
+Does your program compile without error?: Yes 
+If not, what is/are the error(s)?:
+Does your program run without error?: Yes 
+If not, what is/are the error(s) and which parts of your program run correctly?:
+Additional comments (including problems and extra credit):

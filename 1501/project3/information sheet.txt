@@ -1,0 +1,56 @@
+CS 1501 Assignment Information Sheet
+ 
+You must submit an information sheet with every assignment. Also be sure to submit all materials following the procedures described on the submission procedures page.
+
+Name:_______ADHYAKSA PRIBADI___________ Assignment #: ____3_________
+
+Program Due Date: _____JUNE 30______________
+
+Handed in Date: __________JULY 2_____________ 
+
+JDK Version: ________7_______________
+
+Source code file name(s):
+
+___________LZWmod.java binarystdin.java binarystdout.java queue.java tst.java_____________________________________________________
+
+________________________________________________________________
+
+Compiled (.jar or .class) file name(s): ________________________
+
+LZWmod.class binarystdin.class binarystdout.class queue.class tst.class_________________________
+
+________________________________________________________________
+
+Does your program compile without error?: ___yes_____ 
+
+If not, what is/are the error(s)?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Does your program run without error?: ____yes_________ 
+
+If not, what is/are the error(s) and which parts of your program run correctly?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Additional comments (including problems and extra credit):
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+ 
+________________________________________________________________
+ 
