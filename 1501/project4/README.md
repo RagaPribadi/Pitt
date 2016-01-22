@@ -1,0 +1,1 @@
+The purpose of this programming assignment is to implement a primitive secure communications system utilizing the RSA cryptosystem and two primitive symmetric ciphers – a substitution cipher and an additive cipher.
