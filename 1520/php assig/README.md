@@ -1,2 +1,1 @@
-README  
-https://github.com/RagaPribadi/PHP
+First time trying out PHP and SQL 
